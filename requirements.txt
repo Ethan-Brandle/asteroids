@@ -1,0 +1,3 @@
+# Specify version of pygame required.
+pygame == 2.6.0
+
